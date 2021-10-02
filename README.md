@@ -32,7 +32,7 @@ solves these issues and makes keeping record of data very easy.
 → One can also sell books on this platform. <br>
 → There can be 2 categories for selling books: New and unused books and second hand books. <br>
 
-TECHNOLOGY USED: <br>
+<b> TECHNOLOGY USED: </b><br>
 • Front-End : JSP, Html, CSS, JS. <br>
 • Server-side: Servlet. <br>
 • Back-end: MYSQL. <br>
