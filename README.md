@@ -1,11 +1,11 @@
 # Bookstore Management System
-<b> Members: </b>
+## Members: 
 - Anjali Divekar <br>
 - Vaishnavi Kothari <br>
 - Mansi Gupta <br>
 - Shivangi Kumar <br>
 
-<b> ABSTRACT </b> <br>
+## ABSTRACT
 Nothing can beat the feeling of reading a book at a library. Library will always be the most important platform 
 supporting books. But there are many instances where we cannot visit the library. Amidst the Covid crisis we 
 most of us could not visit the library. And even if there is no Covid there are people who do not have a library 
@@ -18,7 +18,7 @@ solves these issues and makes keeping record of data very easy.
 
 <br>
 
-<b> Flow Of The Project: </b> <br> 
+## Flow Of The Project:
 → The user first needs to create an account. <br>
 → After successfully creating an account the user can browse through various books category wise. <br>
 → There will be 2 main categories: Free books and paid books. <br>
@@ -32,9 +32,9 @@ solves these issues and makes keeping record of data very easy.
 → One can also sell books on this platform. <br>
 → There can be 2 categories for selling books: New and unused books and second hand books. <br>
 
-<b> TECHNOLOGY USED: </b><br>
+ ## TECHNOLOGY USED: 
 • Front-End : JSP, Html, CSS, JS. <br>
 • Server-side: Servlet. <br>
-• Back-end: MYSQL. <br>
+• Back-end: Java and MYSQL as Database <br>
 • Server: Tomcat 8.
 
